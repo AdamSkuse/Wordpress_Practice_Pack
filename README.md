@@ -13,7 +13,7 @@ Pick a project from the list below, and complete it, ensuring you fulfil the use
 ### Band 1
 (simple database relationships, basic plugins, no user accounts)
 
-**1. Writer's portfolio** 
+Writer's portfolio 
 I need to display my writing work
 I need to be able to upload new pieces of writing
 I need to be able to select three featured pieces of writing
