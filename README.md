@@ -55,7 +55,9 @@ If you have an idea for a project challenge that could be added to this pack, fo
 -	We need to show our drinks and food menu, and be able to alter it
 
 -	We need a calendar of upcoming events
- 
+
+
+
 
 ### Band 2
 (more complex page relationships)
@@ -78,6 +80,8 @@ If you have an idea for a project challenge that could be added to this pack, fo
 - Dogs listings can be filtered by who's a good boy/girl (n.b. they are ALL good boys/girls!)
  	
 
+
+
 ### Band 3
 (user accounts, scheduling)
 
@@ -89,11 +93,11 @@ We need our site to:
 
 **Front Page**
 
-	- have a dynamic sidebar showing the nearest two upcoming events
+- have a dynamic sidebar showing the nearest two upcoming events
 
-  - allow customers to create accounts and log in
+- allow customers to create accounts and log in
 	
-  - have staff accounts
+- have staff accounts
 
 
 **Games**
