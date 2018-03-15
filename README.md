@@ -14,10 +14,10 @@ Pick a project from the list below, and complete it, ensuring you fulfil the use
 (simple database relationships, basic plugins, no user accounts)
 
 **1. Writer's portfolio** 
-... -	I need to display my writing work
-... -	I need to be able to upload new pieces of writing
-... -	I need to be able to select three featured pieces of writing
-... -	I want to be able to display writing by category (e.g. essays, reviews, interviews)
+I need to display my writing work
+I need to be able to upload new pieces of writing
+I need to be able to select three featured pieces of writing
+I want to be able to display writing by category (e.g. essays, reviews, interviews)
 	
 
 2. Sports Bar
