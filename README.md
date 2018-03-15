@@ -1,23 +1,23 @@
 # Wordpress Practice Pack
-### Inspired by Brad Schiff's [Wordpress course on Udemy](https://www.udemy.com/become-a-wordpress-developer-php-javascript/).
+#### Inspired by Brad Schiff's [Wordpress course on Udemy](https://www.udemy.com/become-a-wordpress-developer-php-javascript/).
 
-Read my review of the course at: 
+[Read my review of the course on my blog](http://adamskuse.com/blog/coding/2018/03/15/thoughts-on-brad-schiffs-become-a-wordpress-developer-course/) 
 
 
 Pick a project from the list below, and complete it, ensuring you fulfil the user stories.
 
 
-WordPress Practice Projects
+## WordPress Practice Projects
 (bands indicate increasing level of complexity):
 
-Band 1
+### Band 1
 (simple database relationships, basic plugins, no user accounts)
 
-1. Writer's portfolio 
-	I need to display my writing work
-	I need to be able to upload new pieces of writing
-	I need to be able to select three featured pieces of writing
-	I want to be able to display writing by category (e.g. essays, reviews, interviews)
+**1. Writer's portfolio** 
+... -	I need to display my writing work
+... -	I need to be able to upload new pieces of writing
+... -	I need to be able to select three featured pieces of writing
+... -	I want to be able to display writing by category (e.g. essays, reviews, interviews)
 	
 
 2. Sports Bar
